@@ -1,4 +1,4 @@
-# Program Mencari Bilangan Terbesar Dari 3 Bilangan
+# 1. Program Mencari Bilangan Terbesar Dari 3 Bilangan
 Program sederhana untuk mencari nilai terbesar dari 3 bilangan yang diinputkan.
 
 ## Rincian Program
@@ -49,7 +49,7 @@ A > B? if yes (bilangan terbesar adalah A) kemudian A > C if yes bilangan terbes
 B > A? if yes (bilangan terbesar adalah B) kemudian B > C if yes bi;amgan terbesar adalah B if no (bilangan terbesar adalah C).
 
 
-# Program Mencari Bilangan Terbesar Menggunakan Looping Sederhana
+# 2. Program Mencari Bilangan Terbesar Menggunakan Looping Sederhana
 Program sederhana untuk mencari nilai terbesar dari sekumpulan bilangan yang diinputkan menggunakan looping sederhana menggunakan while dan break statement.
 
 ## Rincian Program
